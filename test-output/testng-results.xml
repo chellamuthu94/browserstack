@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T17:59:51 IST" name="Suite" finished-at="2023-04-25T18:10:08 IST" duration-ms="616936">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T17:59:51 IST" name="Test" finished-at="2023-04-25T18:10:08 IST" duration-ms="616936">
+      <class name="browserstock.stack">
+        <test-method signature="test(java.lang.String)[pri:0, instance:browserstock.stack@27912e3]" started-at="2023-04-25T17:59:51 IST" name="test" finished-at="2023-04-25T18:10:08 IST" duration-ms="616853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- browserstock.stack -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
